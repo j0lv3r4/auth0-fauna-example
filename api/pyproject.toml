@@ -6,7 +6,7 @@ authors = ["j0lv3r4 <juan@jolvera.dev>"]
 
 [tool.poetry.dependencies]
 python = "^3.6"
-bottle = "^0.12.17"
+bottle = "^0.12.19"
 authlib = "^0.12.1"
 cryptography = "^2.7"
 pylint = "^2.4"
