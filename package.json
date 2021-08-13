@@ -10,7 +10,7 @@
     "@zeit/next-css": "^1.0.1",
     "axios": "^0.19.1",
     "cookies": "^0.7.3",
-    "next": "^9.3.2",
+    "next": "^11.1.0",
     "node-cookie": "^2.1.1",
     "nookies": "^2.0.8",
     "prop-types": "^15.7.2",
